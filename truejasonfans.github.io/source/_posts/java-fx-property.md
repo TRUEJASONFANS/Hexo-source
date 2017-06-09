@@ -2,6 +2,7 @@
 title: java_fx_property
 date: 2016-12-18 22:21:32
 tags: java_fx
+categories: java_fx
 ---
 #  property的概念
 

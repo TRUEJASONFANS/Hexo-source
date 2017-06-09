@@ -2,6 +2,7 @@
 title: java_fx_binding
 date: 2016-12-18 22:22:37
 tags: java_fx
+categories: java_fx
 ---
 # Binding在fx的使用
 ***

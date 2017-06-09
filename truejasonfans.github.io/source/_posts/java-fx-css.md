@@ -2,6 +2,7 @@
 title: java_fx_css
 date: 2016-12-18 22:26:48
 tags: java_fx
+categories: java_fx
 ---
 ### java css 与HTML css 语法类似
 Selector 选择器：

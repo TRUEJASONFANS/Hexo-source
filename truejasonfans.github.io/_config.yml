@@ -20,14 +20,15 @@ permalink_defaults:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: /tags
 archive_dir: archives
-category_dir: categories
+category_dir: /categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
 # Writing
+
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
@@ -71,3 +72,9 @@ deploy:
   type: git
   repo: git@github.com:TRUEJASONFANS/truejasonfans.github.io.git
   branch: master
+plugins: -hexo-generator-sitemap
+
+server:
+  port: 4001
+  compress: true
+  header: true
